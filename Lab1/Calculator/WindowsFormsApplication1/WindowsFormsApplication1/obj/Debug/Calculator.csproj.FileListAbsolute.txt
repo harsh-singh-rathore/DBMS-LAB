@@ -1,0 +1,8 @@
+D:\190911164\DBMS_Lab\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\190911164\DBMS_Lab\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\190911164\DBMS_Lab\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\190911164\DBMS_Lab\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\190911164\DBMS_Lab\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\190911164\DBMS_Lab\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\190911164\DBMS_Lab\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\190911164\DBMS_Lab\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Calculator.csproj.GenerateResource.Cache
